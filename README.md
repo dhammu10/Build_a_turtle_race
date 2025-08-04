@@ -13,7 +13,7 @@ Welcome to the **Turtle Race Game** built using Python's `turtle` module! This f
 
 ## 📂 Project Structure
 
-📁 turtle-race/
+📁 turtle-race/<br>
 ├── participant.py # Contains the Participant class that initializes turtles <br>
 ├── main.py # Main game script (the code you provided) <br>
 ├── README.md # Project documentation
