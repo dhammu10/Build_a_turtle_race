@@ -28,5 +28,4 @@ while is_race_on:
         rand_dist = random.randint(0, 10)
         turtle.forward(rand_dist)
      
-
 screen.exitonclick()
